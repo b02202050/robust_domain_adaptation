@@ -3,7 +3,6 @@
 This is the repository for the following paper.
 [https://arxiv.org/abs/1904.02361](https://arxiv.org/abs/1904.02361)
 
-Source code will be provided very soon.
 
 Please cite:
 ```
