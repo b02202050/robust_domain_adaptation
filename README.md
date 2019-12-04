@@ -1,6 +1,5 @@
 # A Robust Learning Approach to Domain Adaptive Object Detection
 
-This is the repository for the following paper.
 [https://arxiv.org/abs/1904.02361](https://arxiv.org/abs/1904.02361)
 
 
